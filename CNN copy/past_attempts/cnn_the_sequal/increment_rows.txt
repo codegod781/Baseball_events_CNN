@@ -1,0 +1,418 @@
+Throw detected at row 55
+Throw detected at row 92
+Throw detected at row 122 (low threshold)
+Throw detected at row 171
+Swing detected at row 178 (low threshold)
+Throw detected at row 227
+Swing detected at row 284
+Throw detected at row 293 (low threshold)
+Throw detected at row 317
+Swing detected at row 327
+Swing detected at row 330
+Swing detected at row 519
+Swing detected at row 608
+Swing detected at row 706 (low threshold)
+Throw detected at row 760 (low threshold)
+Swing detected at row 763
+Swing detected at row 1000
+Swing detected at row 1007 (low threshold)
+Throw detected at row 1014
+Throw detected at row 1115 (low threshold)
+Throw detected at row 1133 (low threshold)
+Throw detected at row 1179
+Throw detected at row 1235
+Throw detected at row 1244
+Throw detected at row 1255
+Throw detected at row 1269 (low threshold)
+Throw detected at row 1303 (low threshold)
+Throw detected at row 1308
+Throw detected at row 1314 (low threshold)
+Throw detected at row 1322 (low threshold)
+Throw detected at row 1334
+Swing detected at row 1350 (low threshold)
+Throw detected at row 1399 (low threshold)
+Swing detected at row 1410
+Throw detected at row 1422 (low threshold)
+Throw detected at row 1428
+Swing detected at row 1431 (low threshold)
+Swing detected at row 1435 (low threshold)
+Swing detected at row 1438 (low threshold)
+Swing detected at row 1442
+Throw detected at row 1447
+Throw detected at row 1453
+Throw detected at row 1456
+Throw detected at row 1473 (low threshold)
+Swing detected at row 1476
+Throw detected at row 1482 (low threshold)
+Swing detected at row 1522
+Swing detected at row 1528
+Throw detected at row 1559 (low threshold)
+Throw detected at row 1570 (low threshold)
+Throw detected at row 1641
+Swing detected at row 1645 (low threshold)
+Throw detected at row 1681
+Swing detected at row 1716 (low threshold)
+Swing detected at row 1721
+Throw detected at row 1761 (low threshold)
+Swing detected at row 1767
+Throw detected at row 1834 (low threshold)
+Throw detected at row 2005
+Throw detected at row 2008
+Throw detected at row 2051 (low threshold)
+Swing detected at row 2081
+Swing detected at row 2084
+Throw detected at row 2210 (low threshold)
+Swing detected at row 2216 (low threshold)
+Throw detected at row 2251 (low threshold)
+Throw detected at row 2254
+Throw detected at row 2295
+Throw detected at row 2301
+Throw detected at row 2327 (low threshold)
+Throw detected at row 2331
+Throw detected at row 2335
+Throw detected at row 2338
+Throw detected at row 2342
+Throw detected at row 2350
+Throw detected at row 2354 (low threshold)
+Throw detected at row 2360
+Throw detected at row 2371 (low threshold)
+Throw detected at row 2379
+Throw detected at row 2386
+Throw detected at row 2389
+Swing detected at row 2392
+Throw detected at row 2399
+Throw detected at row 2407
+Throw detected at row 2418
+Throw detected at row 2427
+Throw detected at row 2430
+Throw detected at row 2444
+Throw detected at row 2451 (low threshold)
+Throw detected at row 2454 (low threshold)
+Throw detected at row 2465 (low threshold)
+Throw detected at row 2468 (low threshold)
+Throw detected at row 2483
+Throw detected at row 2491
+Throw detected at row 2503
+Throw detected at row 2507
+Throw detected at row 2510
+Throw detected at row 2519
+Throw detected at row 2523
+Throw detected at row 2535
+Swing detected at row 2538 (low threshold)
+Throw detected at row 2551
+Throw detected at row 2572
+Throw detected at row 2575
+Throw detected at row 2579
+Throw detected at row 2582
+Throw detected at row 2589
+Throw detected at row 2593
+Throw detected at row 2600
+Throw detected at row 2609
+Throw detected at row 2618
+Throw detected at row 2622
+Throw detected at row 2626
+Swing detected at row 2634
+Throw detected at row 2642 (low threshold)
+Throw detected at row 2645
+Throw detected at row 2653
+Throw detected at row 2657
+Throw detected at row 2660
+Throw detected at row 2664 (low threshold)
+Throw detected at row 2667 (low threshold)
+Throw detected at row 2672
+Throw detected at row 2677
+Throw detected at row 2687
+Throw detected at row 2697
+Throw detected at row 2701
+Throw detected at row 2704 (low threshold)
+Throw detected at row 2711
+Swing detected at row 2714 (low threshold)
+Throw detected at row 2728
+Throw detected at row 2743
+Throw detected at row 2751
+Swing detected at row 2759
+Throw detected at row 2779
+Throw detected at row 2787
+Throw detected at row 2794
+Throw detected at row 2799
+Throw detected at row 2803
+Throw detected at row 2819
+Throw detected at row 2826
+Throw detected at row 2834
+Throw detected at row 2838
+Throw detected at row 2844
+Throw detected at row 2847
+Throw detected at row 2852
+Throw detected at row 2873
+Throw detected at row 2886
+Throw detected at row 2911 (low threshold)
+Throw detected at row 2920
+Throw detected at row 2927 (low threshold)
+Throw detected at row 2955
+Throw detected at row 2958
+Swing detected at row 2965
+Throw detected at row 2972 (low threshold)
+Throw detected at row 2989
+Throw detected at row 2997
+Throw detected at row 3004 (low threshold)
+Throw detected at row 3019
+Throw detected at row 3024
+Throw detected at row 3035 (low threshold)
+Throw detected at row 3045
+Throw detected at row 3052
+Throw detected at row 3059
+Throw detected at row 3082 (low threshold)
+Throw detected at row 3085 (low threshold)
+Swing detected at row 3092
+Throw detected at row 3095
+Swing detected at row 3100
+Throw detected at row 3107
+Throw detected at row 3110 (low threshold)
+Throw detected at row 3115
+Throw detected at row 3124
+Throw detected at row 3133
+Throw detected at row 3148
+Throw detected at row 3151
+Throw detected at row 3155
+Throw detected at row 3162
+Throw detected at row 3171 (low threshold)
+Throw detected at row 3179
+Throw detected at row 3195
+Throw detected at row 3206
+Throw detected at row 3218
+Throw detected at row 3225
+Throw detected at row 3228
+Throw detected at row 3242
+Throw detected at row 3261
+Throw detected at row 3265
+Throw detected at row 3269
+Throw detected at row 3293
+Throw detected at row 3307
+Throw detected at row 3317 (low threshold)
+Throw detected at row 3327 (low threshold)
+Throw detected at row 3332
+Throw detected at row 3340
+Throw detected at row 3357
+Throw detected at row 3364
+Throw detected at row 3372
+Throw detected at row 3379
+Throw detected at row 3386
+Throw detected at row 3394
+Throw detected at row 3397
+Throw detected at row 3430 (low threshold)
+Swing detected at row 3441
+Throw detected at row 3492
+Throw detected at row 3499
+Throw detected at row 3503 (low threshold)
+Swing detected at row 3515
+Throw detected at row 3521
+Throw detected at row 3526
+Throw detected at row 3537
+Throw detected at row 3548
+Throw detected at row 3556
+Throw detected at row 3563 (low threshold)
+Throw detected at row 3572
+Throw detected at row 3583
+Swing detected at row 3595 (low threshold)
+Throw detected at row 3605
+Throw detected at row 3612 (low threshold)
+Throw detected at row 3617
+Throw detected at row 3621 (low threshold)
+Throw detected at row 3629
+Throw detected at row 3634
+Throw detected at row 3651
+Throw detected at row 3664 (low threshold)
+Throw detected at row 3670
+Throw detected at row 3675
+Throw detected at row 3683
+Throw detected at row 3687
+Throw detected at row 3706
+Throw detected at row 3709
+Throw detected at row 3714
+Throw detected at row 3740
+Throw detected at row 3743 (low threshold)
+Throw detected at row 3749
+Throw detected at row 3757
+Throw detected at row 3766
+Throw detected at row 3775
+Throw detected at row 3782 (low threshold)
+Throw detected at row 3785
+Throw detected at row 3790 (low threshold)
+Throw detected at row 3793
+Throw detected at row 3804 (low threshold)
+Throw detected at row 3819
+Throw detected at row 3837 (low threshold)
+Swing detected at row 3858 (low threshold)
+Swing detected at row 3880
+Throw detected at row 3969
+Swing detected at row 3973
+Throw detected at row 4167 (low threshold)
+Throw detected at row 4413
+Throw detected at row 4421 (low threshold)
+Throw detected at row 4428
+Swing detected at row 4439
+Throw detected at row 4447
+Throw detected at row 4459
+Throw detected at row 4474
+Throw detected at row 4478
+Swing detected at row 4481 (low threshold)
+Throw detected at row 4490
+Throw detected at row 4495
+Throw detected at row 4523
+Throw detected at row 4530
+Throw detected at row 4534 (low threshold)
+Throw detected at row 4545 (low threshold)
+Throw detected at row 4549
+Swing detected at row 4574
+Throw detected at row 4581
+Throw detected at row 4586
+Throw detected at row 4595
+Swing detected at row 4625 (low threshold)
+Throw detected at row 4631
+Throw detected at row 4644
+Swing detected at row 4658
+Throw detected at row 4665
+Throw detected at row 4673
+Throw detected at row 4683
+Throw detected at row 4686
+Throw detected at row 4692
+Throw detected at row 4705
+Throw detected at row 4722
+Throw detected at row 4726
+Throw detected at row 4730
+Throw detected at row 4739
+Throw detected at row 4748 (low threshold)
+Swing detected at row 4752
+Throw detected at row 4762
+Throw detected at row 4770
+Throw detected at row 4778
+Throw detected at row 4792
+Throw detected at row 4795
+Throw detected at row 4799
+Throw detected at row 4804 (low threshold)
+Throw detected at row 4807
+Throw detected at row 4823
+Throw detected at row 4831 (low threshold)
+Throw detected at row 4842
+Throw detected at row 4850
+Throw detected at row 4857
+Throw detected at row 4862
+Throw detected at row 4865
+Throw detected at row 4870
+Throw detected at row 4875 (low threshold)
+Throw detected at row 4889
+Throw detected at row 4901
+Throw detected at row 4913
+Throw detected at row 4931 (low threshold)
+Throw detected at row 4935
+Throw detected at row 4952
+Throw detected at row 4961
+Throw detected at row 4970
+Throw detected at row 4985
+Swing detected at row 4988 (low threshold)
+Throw detected at row 4991
+Throw detected at row 4995
+Throw detected at row 5003
+Throw detected at row 5008
+Throw detected at row 5013
+Throw detected at row 5022
+Throw detected at row 5037
+Throw detected at row 5045
+Throw detected at row 5052
+Throw detected at row 5063
+Swing detected at row 5070
+Swing detected at row 5088 (low threshold)
+Throw detected at row 5094 (low threshold)
+Swing detected at row 5098
+Throw detected at row 5109
+Throw detected at row 5119
+Throw detected at row 5126
+Throw detected at row 5129
+Throw detected at row 5133
+Swing detected at row 5137 (low threshold)
+Throw detected at row 5147
+Throw detected at row 5176
+Throw detected at row 5184
+Throw detected at row 5200
+Throw detected at row 5208
+Swing detected at row 5218
+Throw detected at row 5227
+Throw detected at row 5232
+Throw detected at row 5238 (low threshold)
+Throw detected at row 5245
+Throw detected at row 5248
+Throw detected at row 5255
+Throw detected at row 5265
+Throw detected at row 5281
+Throw detected at row 5294
+Throw detected at row 5299
+Throw detected at row 5303
+Throw detected at row 5306
+Throw detected at row 5310
+Swing detected at row 5313 (low threshold)
+Throw detected at row 5316 (low threshold)
+Throw detected at row 5320
+Swing detected at row 5328
+Swing detected at row 5334
+Throw detected at row 5342
+Throw detected at row 5364
+Throw detected at row 5368
+Throw detected at row 5371 (low threshold)
+Throw detected at row 5374
+Throw detected at row 5381
+Throw detected at row 5392
+Throw detected at row 5404
+Swing detected at row 5419 (low threshold)
+Throw detected at row 5428
+Throw detected at row 5445
+Throw detected at row 5458
+Throw detected at row 5466
+Throw detected at row 5475
+Throw detected at row 5483 (low threshold)
+Throw detected at row 5486
+Throw detected at row 5492
+Throw detected at row 5499
+Throw detected at row 5506
+Throw detected at row 5513 (low threshold)
+Throw detected at row 5522
+Throw detected at row 5535
+Throw detected at row 5544
+Throw detected at row 5547 (low threshold)
+Throw detected at row 5554
+Throw detected at row 5565
+Swing detected at row 5573 (low threshold)
+Throw detected at row 5585
+Throw detected at row 5591
+Throw detected at row 5601
+Throw detected at row 5609
+Throw detected at row 5618
+Throw detected at row 5625
+Throw detected at row 5649
+Throw detected at row 5655
+Throw detected at row 5659
+Throw detected at row 5672
+Throw detected at row 5681 (low threshold)
+Throw detected at row 5694
+Throw detected at row 5702 (low threshold)
+Throw detected at row 5737 (low threshold)
+Throw detected at row 5750
+Throw detected at row 5786 (low threshold)
+Throw detected at row 5966
+Throw detected at row 6079 (low threshold)
+Throw detected at row 6101 (low threshold)
+Swing detected at row 6183 (low threshold)
+Swing detected at row 6213 (low threshold)
+Swing detected at row 6223 (low threshold)
+Swing detected at row 6226 (low threshold)
+Swing detected at row 6229 (low threshold)
+Throw detected at row 6239
+Throw detected at row 6286
+Swing detected at row 6355
+Swing detected at row 6362
+Throw detected at row 6411 (low threshold)
+Throw detected at row 6418
+Swing detected at row 6424
+Throw detected at row 6473
+Swing detected at row 6546
+Throw detected at row 6617
+Throw detected at row 6622

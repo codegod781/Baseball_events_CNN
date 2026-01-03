@@ -1,0 +1,115 @@
+Swing detected at row 1865  time 466.25 (low threshold)
+Swing detected at row 3375 time 843.75
+Swing detected at row 9213  time 2303.25 (low threshold)
+Swing detected at row 9349 time 2337.25
+Swing detected at row 9376 time 2344.0
+Swing detected at row 9408  time 2352.0 (low threshold)
+Swing detected at row 9448 time 2362.0
+Throw detected at row 9523  time 2380.75
+Swing detected at row 9551 time 2387.75
+Swing detected at row 9634 time 2408.5
+Throw detected at row 9870  time 2467.5
+Swing detected at row 9939 time 2484.75
+Swing detected at row 9972 time 2493.0
+Throw detected at row 10116  time 2529.0 (low threshold)
+Swing detected at row 10295 time 2573.75
+Throw detected at row 10324  time 2581.0 (low threshold)
+Swing detected at row 10619 time 2654.75
+Throw detected at row 10811  time 2702.75
+Swing detected at row 10852 time 2713.0
+Swing detected at row 10919 time 2729.75
+Throw detected at row 10979  time 2744.75 (low threshold)
+Throw detected at row 11012  time 2753.0 (low threshold)
+Swing detected at row 11124 time 2781.0
+Swing detected at row 11183 time 2795.75
+Throw detected at row 11310  time 2827.5 (low threshold)
+Swing detected at row 11343 time 2835.75
+Throw detected at row 11384  time 2846.0
+Swing detected at row 11457 time 2864.25
+Swing detected at row 11497  time 2874.25 (low threshold)
+Swing detected at row 11532 time 2883.0
+Throw detected at row 11628  time 2907.0
+Throw detected at row 11834  time 2958.5
+Swing detected at row 12025  time 3006.25 (low threshold)
+Throw detected at row 12142  time 3035.5
+Swing detected at row 12214 time 3053.5
+Throw detected at row 12344  time 3086.0
+Swing detected at row 12373 time 3093.25
+Throw detected at row 12505  time 3126.25
+Swing detected at row 12655 time 3163.75
+Throw detected at row 12725  time 3181.25
+Throw detected at row 12919  time 3229.75
+Swing detected at row 13147 time 3286.75
+Throw detected at row 13234  time 3308.5
+Swing detected at row 13265 time 3316.25
+Swing detected at row 13303 time 3325.75
+Swing detected at row 13335 time 3333.75
+Throw detected at row 13436  time 3359.0
+Throw detected at row 13494  time 3373.5
+Throw detected at row 13524  time 3381.0
+Swing detected at row 13594 time 3398.5
+Swing detected at row 13657 time 3414.25
+Swing detected at row 13689 time 3422.25
+Throw detected at row 13725  time 3431.25
+Swing detected at row 13975 time 3493.75
+Swing detected at row 14004 time 3501.0
+Throw detected at row 14032  time 3508.0
+Throw detected at row 14154  time 3538.5
+Throw detected at row 14231  time 3557.75
+Throw detected at row 14261  time 3565.25
+Swing detected at row 14428 time 3607.0
+Swing detected at row 14493 time 3623.25
+Throw detected at row 14524  time 3631.0
+Swing detected at row 14555 time 3638.75
+Throw detected at row 14611  time 3652.75 (low threshold)
+Swing detected at row 14675 time 3668.75
+Throw detected at row 14705  time 3676.25 (low threshold)
+Swing detected at row 14793 time 3698.25
+Throw detected at row 14861  time 3715.25
+Throw detected at row 14966  time 3741.5
+Throw detected at row 15001  time 3750.25 (low threshold)
+Swing detected at row 15147 time 3786.75
+Swing detected at row 15180  time 3795.0 (low threshold)
+Throw detected at row 15209  time 3802.25
+Swing detected at row 17660 time 4415.0
+Throw detected at row 17779  time 4444.75 (low threshold)
+Swing detected at row 17918 time 4479.5
+Swing detected at row 18049  time 4512.25 (low threshold)
+Throw detected at row 18126  time 4531.5
+Throw detected at row 18203  time 4550.75
+Throw detected at row 18270  time 4567.5
+Throw detected at row 18424  time 4606.0 (low threshold)
+Swing detected at row 18464 time 4616.0
+Throw detected at row 18530  time 4632.5
+Throw detected at row 18638  time 4659.5
+Throw detected at row 18860  time 4715.0 (low threshold)
+Throw detected at row 19020  time 4755.0
+Throw detected at row 19175  time 4793.75
+Swing detected at row 19273 time 4818.25
+Swing detected at row 19406  time 4851.5 (low threshold)
+Swing detected at row 19659 time 4914.75
+Throw detected at row 19774  time 4943.5 (low threshold)
+Swing detected at row 19814 time 4953.5
+Throw detected at row 20216  time 5054.0 (low threshold)
+Throw detected at row 20443  time 5110.75
+Throw detected at row 20575  time 5143.75
+Swing detected at row 20870  time 5217.5 (low threshold)
+Swing detected at row 21185 time 5296.25
+Throw detected at row 21248  time 5312.0
+Swing detected at row 21286 time 5321.5
+Throw detected at row 21457  time 5364.25 (low threshold)
+Swing detected at row 21492  time 5373.0 (low threshold)
+Swing detected at row 21576 time 5394.0
+Swing detected at row 21756 time 5439.0
+Throw detected at row 21897  time 5474.25
+Throw detected at row 22093  time 5523.25 (low threshold)
+Throw detected at row 22148  time 5537.0
+Throw detected at row 22268  time 5567.0
+Throw detected at row 22348  time 5587.0 (low threshold)
+Throw detected at row 22410  time 5602.5
+Swing detected at row 22478 time 5619.5
+Throw detected at row 22568  time 5642.0
+Throw detected at row 22608  time 5652.0 (low threshold)
+Throw detected at row 22627  time 5656.75 (low threshold)
+Swing detected at row 22655 time 5663.75
+Throw detected at row 22783  time 5695.75

@@ -1,0 +1,7 @@
+40_throws_and_swings.csv 1-1165
+12_swings_Nick.csv 1166-1324
+12_throws_Nick.csv 1325-1406
+lefty
+ucla
+12_swings_Nick.csv 1407-1565
+12_swings_Nick.csv 1566-1724

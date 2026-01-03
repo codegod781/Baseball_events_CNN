@@ -1,0 +1,119 @@
+=== Event Statistics ===
+Values are Total Gyroscopic Acceleration (m/s^2)
+
+Summary Statistics:
+  # Throws: 58
+  # Swings: 45
+  # High-Intensity Throws (>1000): 15
+  # Low-Intensity Throws (<1000): 43
+  # High-Intensity Swings (>900): 19
+  # Low-Intensity Swings (<900): 26
+    Average Throw Max Gyro Acc: 847.68
+    Average Swing Max Gyro Acc: 839.21
+
+Detailed Event List:
+Timestamp |     Event Type | Max Gyro Acc (m/s^2)
+--------------------------------------------------
+1966.5          Throw                    486.49
+1984.75         Throw                    574.00
+1991.75         Throw                    600.25
+1998.25         Throw                    669.55
+2006.25         Throw                    670.74
+2013.5          Throw                    658.42
+2022.0          Throw                    661.10
+2030.25         Throw                    605.58
+2038.25         Throw                    691.72
+2059.5          Throw                    706.42
+2069.0          Throw                    813.54
+2077.75         Throw                    718.59
+2090.25         Throw                    585.90
+2098.0          Throw                    841.48
+2108.75         Throw                    884.09
+2117.75         Throw                    785.42
+2126.75         Throw                    930.98
+2138.25         Throw                   1061.98
+2149.5          Throw                   1257.09
+2158.75         Throw                    987.07
+2171.5          Throw                    962.52
+2184.25         Throw                   1242.18
+2195.5          Throw                   1199.84
+2207.5          Throw                   1195.41
+2217.75         Throw                   1153.16
+2238.25         Throw                   1146.18
+2270.25         Throw                   1122.68
+2283.25         Throw                   1389.35
+2311.25         Throw                   1432.03
+2324.5          Throw                   1083.97
+2335.0          Throw                    281.06
+2340.0          Throw                   1421.57
+2353.75         Throw                   1506.13
+2397.75         Throw                    865.00
+3074.25         Throw                    956.33
+3130.5          Throw                    836.69
+3496.25         Throw                    692.65
+3512.25         Throw                    733.19
+3527.0          Throw                    952.80
+3542.5          Throw                    836.31
+3559.5          Throw                    856.04
+3575.0          Throw                   1065.75
+3618.25         Throw                    728.13
+3649.25         Throw                   1094.44
+3999.5          Swing                    681.90
+4004.5          Swing                    713.66
+4017.0          Swing                    972.48
+4027.0          Throw                    703.69
+4033.5          Throw                    743.63
+4146.25         Swing                    455.11
+4154.0          Swing                    429.33
+4157.25         Swing                    462.46
+4184.5          Swing                    562.70
+4192.5          Swing                    869.44
+4225.5          Swing                   1189.89
+4230.0          Swing                    970.66
+4234.25         Swing                    962.69
+4238.5          Swing                   1158.86
+4243.75         Swing                    984.30
+4248.25         Swing                    904.74
+4253.0          Swing                    731.22
+4257.25         Swing                   1075.50
+4264.25         Swing                    826.07
+4269.0          Swing                    819.24
+4273.75         Swing                   1183.40
+4458.25         Swing                    461.07
+4460.25         Swing                    633.82
+4463.0          Swing                    636.60
+4488.0          Swing                    665.94
+4491.5          Swing                     59.43
+4497.0          Swing                    796.18
+4502.0          Swing                   1293.60
+4508.0          Swing                    795.37
+4513.0          Swing                   1182.72
+4519.5          Swing                   1183.94
+4524.25         Swing                    628.22
+4530.25         Swing                    820.61
+5516.75         Throw                    740.16
+5546.0          Throw                    649.58
+5572.5          Throw                    554.65
+5602.5          Throw                    583.16
+5628.5          Throw                    585.90
+5656.25         Throw                    590.54
+5694.25         Throw                    583.16
+5757.25         Throw                    612.70
+5783.0          Throw                    637.61
+5803.75         Throw                    811.36
+5827.0          Throw                    810.37
+5864.0          Throw                    615.31
+6721.75         Swing                    387.25
+6778.5          Swing                    608.49
+6783.5          Swing                    921.44
+6788.75         Swing                    978.41
+6794.5          Swing                   1168.24
+6800.5          Swing                   1138.59
+6808.25         Swing                    703.00
+6817.0          Swing                    819.24
+6823.25         Swing                    895.46
+6832.25         Swing                   1147.44
+6837.75         Swing                   1178.64
+6856.0          Swing                   1062.88
+6860.75         Swing                    800.00
+6871.75         Swing                    844.14

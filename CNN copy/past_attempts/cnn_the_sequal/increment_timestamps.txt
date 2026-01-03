@@ -1,0 +1,9 @@
+Throw detected at timestamp 1727719871000
+Swing detected at timestamp 1727719875000
+Swing detected at timestamp 1727719890000
+Swing detected at timestamp 1727719907000
+Swing detected at timestamp 1727719983000
+Swing detected at timestamp 1727720012000
+Swing detected at timestamp 1727720034000
+Swing detected at timestamp 1727720042000
+Swing detected at timestamp 1727720049000
